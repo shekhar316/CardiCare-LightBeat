@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HeartRateMonitor</string>
+    <string name="appName">Light Beat</string>
+    <string name="description">All you have to do is open the Light Beat App and place your index finger\'s tip over your phone\'s camera for 1 minute. The region where the tip of your finger is touching should be lighter and the full camera preview image should be red. Avoid pressing too firmly as this will stop circulation and produce an incorrect reading. It detects a heartbeat after a short while. It will calculate your heart rate and update the number after ten seconds.</string>
+</resources>
